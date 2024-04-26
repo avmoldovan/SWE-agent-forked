@@ -1,0 +1,14 @@
+
+diff --git a/python/kserve/kserve/models/v1beta1_logger_spec.py b/python/kserve/kserve/models/v1beta1_logger_spec.py
+index 0b912e25..36b1d924 100644
+--- a/python/kserve/kserve/models/v1beta1_logger_spec.py
++++ b/python/kserve/kserve/models/v1beta1_logger_spec.py
+@@ -48,7 +48,7 @@ class V1beta1LoggerSpec(object):
+     """
+     openapi_types = {
+         'mode': 'str',
+-        'url': 'str'
++        'url': 'str',
+     }
+ 
+     attribute_map = {

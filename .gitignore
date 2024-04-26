@@ -138,7 +138,7 @@ keys.cfg
 *.ipynb
 
 # Evaluation folders
-results/
+#results/
 testbed/
 temp/
 
